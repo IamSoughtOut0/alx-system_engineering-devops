@@ -1,2 +1,2 @@
-#!/bin/bashh
+#!/bin/bash
 head +10 /etc/passwd  | cat -n
