@@ -1,2 +1,2 @@
 #!/bin/bashh
-less -lt
+less -lt | head /etc/passwd
